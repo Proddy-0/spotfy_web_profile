@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spotfy_web_profile/static/css/main.e6c13ad2.css",
+    "main.js": "/spotfy_web_profile/static/js/main.c2cafba8.js",
+    "static/js/453.b186cb12.chunk.js": "/spotfy_web_profile/static/js/453.b186cb12.chunk.js",
+    "index.html": "/spotfy_web_profile/index.html",
+    "main.e6c13ad2.css.map": "/spotfy_web_profile/static/css/main.e6c13ad2.css.map",
+    "main.c2cafba8.js.map": "/spotfy_web_profile/static/js/main.c2cafba8.js.map",
+    "453.b186cb12.chunk.js.map": "/spotfy_web_profile/static/js/453.b186cb12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c2cafba8.js"
+  ]
+}
